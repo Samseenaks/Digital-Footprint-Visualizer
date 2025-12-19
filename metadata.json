@@ -1,0 +1,5 @@
+{
+  "name": "FootprintLens",
+  "description": "A privacy-first digital footprint visualizer that analyzes your public online presence and provides actionable privacy risk assessments.",
+  "requestFramePermissions": []
+}
